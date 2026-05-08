@@ -69,7 +69,7 @@ def calculate_column_density(row, levels, Tex, TdV, T_bg):
     freq = row["Frequency (MHz)"] * u.MHz
     freq_GHz = freq.to(u.GHz)
 
-    A_ul = row["aij"] / u.s
+    A_ul = (10 ** row["log10_aij"]) / u.s
     E_u = row["E_U (K)"] * u.K
     g_u = row["Upper State Degeneracy"]
 

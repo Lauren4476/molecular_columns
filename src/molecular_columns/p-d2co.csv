@@ -1,4 +1,4 @@
-Frequency (MHz),CDMS/JPL Intensity,Resolved QNs,K_a,ortho_or_para,E_L (cm^-1),E_L (K),E_U(cm^-1),E_U (K),Linelist,sijum2,sij,aij,Upper State Degeneracy
+Frequency (MHz),CDMS/JPL Intensity,Resolved QNs,K_a,ortho_or_para,E_L (cm^-1),E_L (K),E_U(cm^-1),E_U (K),Linelist,sijum2,sij,log10_aij,Upper State Degeneracy
 0.1663,-15.0686,"7(5,2) - 7(5,3)",5,p,148.2858,213.35158,148.28581,213.35159,CDMS,35.99076,0,-21.89129,15
 0.2395,-15.3345,"15(7,8) - 15(7,9)",7,p,417.6084,600.84924,417.60841,600.84926,CDMS,34.23141,0,-21.75309,31
 0.4195,-15.9309,"25(9,16) - 25(9,17)",9,p,936.9983,1348.14032,936.99831,1348.14034,CDMS,34.11823,0,-21.24045,51
