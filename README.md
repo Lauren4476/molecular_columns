@@ -17,6 +17,7 @@ collection of functions to calculate column densities for different species. Usu
 - H<sub>2</sub>CO
 - c-C<sub>3</sub>H<sub>2</sub>
 - SO<sub>2</sub>
+- D<sub>2</sub>CO
 
 
 ## Contributors:
