@@ -28,3 +28,4 @@ This package is developed by:
 with contributions by:
 - Caroline Gieser ([@CarolineGieser](http://github.com/CarolineGieser))
 - Yu-Ru Chou ([@YuRuChou](https://github.com/YuRuChou))
+- Lauren Mason ([@Lauren4476](https://github.com/Lauren4476))
