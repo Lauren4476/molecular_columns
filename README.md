@@ -10,6 +10,7 @@ collection of functions to calculate column densities for different species. Usu
 ## Current Molecules Implemented
 - DCO<sup>+</sup>
 - H<sup>13</sup>CO<sup>+</sup>
+- HCO<sup>+</sup>
 - ortho-/para-NH<sub>2</sub>D
 - SO
 - DCN
