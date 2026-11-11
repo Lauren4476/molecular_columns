@@ -19,6 +19,7 @@ collection of functions to calculate column densities for different species. Usu
 - c-C<sub>3</sub>H<sub>2</sub>
 - SO<sub>2</sub>
 - HC<sub>3</sub>N
+- D<sub>2</sub>CO
 
 
 ## Contributors:
@@ -29,3 +30,4 @@ This package is developed by:
 with contributions by:
 - Caroline Gieser ([@CarolineGieser](http://github.com/CarolineGieser))
 - Yu-Ru Chou ([@YuRuChou](https://github.com/YuRuChou))
+- Lauren Mason ([@Lauren4476](https://github.com/Lauren4476))
